@@ -1,3 +1,5 @@
+//Printing a triangle with number
+
 #include<iostream>
 using namespace std;
 
